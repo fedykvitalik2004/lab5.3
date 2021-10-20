@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\vitaliy\source\repos\UnitTest1\UnitTest1.cpp(16,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     Создается библиотека C:\Users\vitaliy\source\repos\lab5.3\Debug\UnitTest1.lib и объект C:\Users\vitaliy\source\repos\lab5.3\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\vitaliy\source\repos\lab5.3\Debug\UnitTest1.dll
